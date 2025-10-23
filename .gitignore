@@ -1,0 +1,27 @@
+# Ignore the built site (Jekyll output)
+_site/
+
+# macOS system files
+.DS_Store
+
+# Node / package artifacts (if used for theme or tooling)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ruby / Jekyll build files (if applicable)
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+
+# Temporary or backup files
+*.swp
+*.bak
+*.tmp
+*.log
+
+# VSCode / JetBrains project settings (optional)
+.vscode/
+.idea/
