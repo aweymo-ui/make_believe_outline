@@ -1,4 +1,4 @@
-# Image Extraction for Overhead Scans and Archeological Photographs
+# Make, Believe: Foreign Interest and American Identities in the Inland Empire  Project Outline
 
-Presentation for the 2025 Visual Resources Association Conference.
+Presentation for HIST 5030: Graduate Writing Workshop. _Andrew Weymouth, Fall 2025_.
 
