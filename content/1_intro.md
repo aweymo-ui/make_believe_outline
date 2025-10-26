@@ -4,7 +4,7 @@ nav: Introduction
 gallery: true
 ---
 
-The work is examining why and how Dutch finance was so heavily involved in rebuilding Spokane after the 1889 fire, as well as early boosterism and agricultural land ventures in the area. The work will be asking how a largely speculative place like Spokane in 1890 projected American identity while being so heavily shaped by foreign interest and what regional identity was maintained after these interests were liquidated and the capital returned to Holland.
+The work is examining why and how Dutch finance was so heavily involved in rebuilding Spokane after the 1889 fire, as well as early boosterism and agricultural land ventures in the area. The work will be asking how a largely speculative place like Spokane in 1890 projected American identity while being so heavily shaped by foreign interest, and what regional identity was maintained after these interests were liquidated and the capital returned to Holland.
 
 While Eastern Washington University professor John Fahey has written articles on the subject, I would like to explore more of the international backstory of how Dutch interest in Spokane was cultivated over time, and I am also implementing more Dutch perspectives, with around half of the reference materials made up of historic Dutch newspapers, magazines and books. To explore the aspects of identity, I am broadening the scope from just commercial imagery to costume catalogs, parades, fairs and architecture.
 
