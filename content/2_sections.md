@@ -66,6 +66,12 @@ Another, "more or less Dutch-owned railway" that was expanding at this time was 
 >
 > -- "Impressions of America by J.P. Niermeyer VII. THE INLAND EMPIRE." Het nieuws van den dag: kleine courant, Dag edition, January 27, 1913, no. 13230, KB c226.
 
+At this point, I will introduce the founding of the Hypotheek bank
+
+> Furthermore, I would like to point out that an American mortgage bank is preferable to a European company that issues mortgages in the United States, because with the former, legal personality is assured, while with a European one, difficulties may arise in the future, because, for example, a proposal was submitted to the last Congress to prohibit foreign mortgage companies from issuing further mortgages."
+>
+> -- "STOCK EXCHANGE AND INDUSTRY," Algemeen Handelsblad (Amsterdam), November 22, 1886.
+
 ## Settlements vs. Colonies
 
 ## Colonial and Slavery Allusions
