@@ -8,7 +8,15 @@ gallery: true
 
 This work examines why and how Dutch finance was so heavily involved in rebuilding Spokane after the 1889 fire, as well as early boosterism and agricultural land ventures in the area. The work will be asking how a largely speculative place like Spokane in 1890 projected American identity while being so heavily shaped by foreign interest, and what regional identity was maintained after these interests were liquidated and the capital returned to Holland.
 
-While Eastern Washington University professor John Fahey has written articles and chapters in edited volumes on the subject, I would like to explore more of the international backstory of how Dutch interest in Spokane was cultivated over time, and I am also implementing more Dutch perspectives, with around half of the reference materials made up of historic Dutch newspapers, magazines and books. To explore the aspects of identity, I am broadening the scope from just commercial imagery to iconography more generally, implementing costume catalogs, parades, fairs and architecture.
+<br>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+<br>
+
+While Eastern Washington University professor John Fahey has written articles and chapters in edited volumes on the subject, I would like to explore more of the international backstory of how Dutch interest in Spokane was cultivated over time, and I am also implementing more Dutch perspectives, with around half of the reference materials made up of historic Dutch newspapers, magazines and books. To explore the aspects of identity, I am broadening the scope beyond commercial imagery to iconography more generally, implementing costume catalogs, parades, fairs and architecture.
 
 I am in the process of writing this work now, where it will ultimately be a public history oriented digital exhibit. I will also be working on the digital infrastructure of the digital exhibit itself, although the concept is pretty straightforward compared to some of the digital humanities projects I've worked on in the past. At the moment, I'm thinking of a "scrollytelling" essay format where the text and high resolution images can interact and intersperse mapping elements to highlight the international context of the story. 
 
